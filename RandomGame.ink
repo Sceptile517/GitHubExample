@@ -9,7 +9,7 @@ Once upon a time...
 ==third==
 You clikced the third choice.
 
-# IMAGE : images/tree.jpg
+# IMAGE: images/tree.jpg
 
 *Think about what you've done.
 
